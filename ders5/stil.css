@@ -1,0 +1,62 @@
+h1 {
+    display: block;
+    width: 350px;
+    margin: 30px auto;
+    padding: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font: 55px;
+    color: white;
+    text-decoration: underline overline;
+    background-color: red;
+    border-radius: 10px;
+}
+
+
+
+
+
+#counterLabel {
+    /* display: inline-block; */
+    /* display: inline-block; */
+
+    max-width: 600px;
+    color: lime;
+    background-color: orange;
+
+    font-size: 100px;
+    font-family: Arial;
+    text-align: center;
+    margin: 0px auto;
+
+    border-radius: 10px;
+
+
+}
+
+#dugmeler {
+    display: block;
+    text-align: center;
+}
+
+.dugme {
+    width: 130px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    border: solid black 2px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+}
+
+.dugme:hover {
+    opacity: 50%;
+    cursor: pointer;
+
+}
+#Reset {
+    background-color: white;
+    color: red;
+}
